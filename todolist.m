@@ -4,9 +4,9 @@
 - **Company Name:** OCEAN BTP
 - **Directory:** ocean_btp
 - **Address/Contact:** 
-  - OCEAN BTP est une entreprise exer�ant dans le domaine du g�nie-civil .
+  - OCEAN BTP est une entreprise exeréant dans le domaine du génie-civil .
   - 
-  - Page � Entreprise de construction � Architecte (Design) � Consultant en affaires
+  - Page é Entreprise de construction é Architecte (Design) é Consultant en affaires
   - 
   - BONAMOUSSADI, Douala, Cameroon
   - 
